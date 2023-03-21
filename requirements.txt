@@ -1,0 +1,8 @@
+asyncio
+DateTime
+aiogram
+db
+regex
+requests
+beautifulsoup4
+geopy
